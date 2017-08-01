@@ -1,0 +1,35 @@
+{
+  "name": "sp-ari",
+  "version": "0.0.1",
+  "dependencies": {
+    "bcrypt": ">= 0.8.x",
+    "ejs": ">= 0.0.0",
+    "express": ">= 3.0.0",
+    "http-proxy": "^1.11.2",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": ">= 0.0.0",
+    "passport-http": ">= 0.0.0"
+  },
+  "description": "Secured Proxy for ARI",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orpolaczek/SPARI.git"
+  },
+  "bugs": {
+    "url": "http://github.com/orpolaczek/SPARI/issues"
+  },
+  "author": {
+    "name": "Or Polaczek",
+    "email": "Or@Polaczek.co.il",
+    "url": "http://Or.Polaczek.co.il"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
